@@ -18,7 +18,7 @@ ul {
 }
 
 ul.list-unstyled {
-padding: 0;
+  padding: 0;
   background-color: #191919;
 }
 ul.fake {
@@ -30,7 +30,7 @@ ul.fake {
 .image-vast-1 {
   display: flex;
   flex-flow: row wrap;
-  background-color: #D0EAEC;
+  background-color: #d0eaec;
   height: 840px !important;
   padding: 10px 0;
   justify-content: center;
@@ -81,7 +81,7 @@ ul.fake {
     flex-flow: column wrap !important;
     height: 550px !important;
     padding: 10px 0 !important;
-    background-color: #D0EAEC;
+    background-color: #d0eaec;
     width: 100% !important;
   }
 }
@@ -146,7 +146,7 @@ ul.fake {
 }
 .icon-10 {
   width: 55px;
-  background-color: #D0EAEC;
+  background-color: #d0eaec;
   border-radius: 50%;
   height: 55px;
   position: fixed;
@@ -157,7 +157,7 @@ ul.fake {
   justify-content: center;
   align-items: center;
   z-index: 2;
-border:0.5px solid #282262 ;
+  border: 0.5px solid #282262;
 }
 .icon-10-image {
   width: 100%;
@@ -192,7 +192,7 @@ border:0.5px solid #282262 ;
   width: 100%;
   padding: 10px !important;
   padding: 10px !important;
-  background-color: #D0EAEC;
+  background-color: #d0eaec;
   /* height: 320px; */
   display: flex;
   flex-flow: row wrap;
@@ -232,22 +232,22 @@ border:0.5px solid #282262 ;
 
     background-position: center center !important;
   }
-.tasis-4{
-height:800px !important;}
-.tasis-6 {
-  display: flex;
-  direction: rtl;
-  text-align: justify;
-  width: 100%;
-  padding: 10px !important;
-}.tasis-6 > p {
-  font-size: 16px;
-color: #282262;
-}
-.tasis-6 > p>span {
-  font-size: 22px;
-color: red;
-}
+
+  .tasis-6 {
+    display: flex;
+    direction: rtl;
+    text-align: justify;
+    width: 100%;
+    padding: 10px !important;
+  }
+  .tasis-6 > p {
+    font-size: 16px;
+    color: #282262;
+  }
+  .tasis-6 > p > span {
+    font-size: 22px;
+    color: red;
+  }
 }
 .tasiss {
   display: flex !important;
@@ -255,9 +255,9 @@ color: red;
 }
 .tasis-6 > p {
   font-size: 16px;
-color: #282262;
+  color: #282262;
 }
-.tasis-6 > p>span {
+.tasis-6 > p > span {
   font-size: 22px;
-color: red;
+  color: red;
 }
