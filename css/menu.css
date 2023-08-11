@@ -1,0 +1,5 @@
+nav.menu{
+direction: rtl;}
+nav>div>a>img{
+width: 20px;
+}
